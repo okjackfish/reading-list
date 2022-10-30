@@ -2,7 +2,7 @@ Title: After You
 
 Author: Julie Buxbaum
 
-![After You](/images/after-you.HEIC)
+![After You](/images/after-you.png)
 
 # 失去你以后
 
