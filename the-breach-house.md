@@ -2,6 +2,8 @@ Title: The Beach House
 
 Author: James Patterson & Peter De Johnge
 
+![The Beach House](/images/the-beach-house.HEIC)
+
 # 海滨别墅 / 海边小屋
 
 恐怖小说，2019年拍成同名电影 <海滨别墅 The Beach House>，女主 Liana Liberato，是我喜欢的女演员之一。

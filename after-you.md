@@ -2,6 +2,8 @@ Title: After You
 
 Author: Julie Buxbaum
 
+![After You](/images/after-you.HEIC)
+
 # 失去你以后
 
 书评：闕小豪
