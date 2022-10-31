@@ -2,7 +2,7 @@ Title: The Beach House
 
 Author: James Patterson & Peter De Johnge
 
-![The Beach House](/images/the-beach-house.png =100x)
+<img src="/images/the-beach-house.png" width="100" />
 
 # 海滨别墅 / 海边小屋
 

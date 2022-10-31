@@ -2,7 +2,7 @@ Title: After You
 
 Author: Julie Buxbaum
 
-![After You](/images/after-you.png =100x)
+<img src="/images/after-you.png" width="100" />
 
 # 失去你以后
 
